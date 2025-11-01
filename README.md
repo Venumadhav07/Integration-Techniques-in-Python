@@ -84,12 +84,12 @@ Develop strong foundations for computational mathematics and scientific computin
 
 **Author**
 
-Venu Madhav Shetty
-Numerical Analysis & Python Integration Enthusiast
+Venu Madhav Shetty,
+Numerical Analysis & Python Integration Enthusiast,
 University of Rostock-Germany
 
 
-Acknowledgements:
+**Acknowledgements**
 
 This project was built for academic enrichment and to demonstrate how computational techniques can bridge the gap between theory and implementation.
 
