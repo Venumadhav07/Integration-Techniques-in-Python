@@ -43,7 +43,7 @@ The numerical approximations are computed as:
 
 
 **Code Example**
-```python
+
 def f(x, n):
     return x ** n
 
